@@ -1,2 +1,2 @@
 # GleesonLab_PersonalProjects
-Few projects that I worked on while in UCSD GleesonLab
+Few small codes that I worked on while in UCSD GleesonLab to run pipelines smoother.
