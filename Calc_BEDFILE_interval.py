@@ -1,4 +1,4 @@
-# Simple code that returns the intervals of given BEDFILE 
+# Code that returns the intervals of given BEDFILE 
 
 import pandas as pd
 import argparse
